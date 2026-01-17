@@ -6,11 +6,13 @@ import SubmitButton from './SubmitButton'
 function App() {
 
   return (
+    
     <div>
+      <h1 >Password Form</h1>
       <PasswordInput/>
       <SubmitButton/>
     </div>
   )
 }
 
-export default App
+export default App;
